@@ -510,7 +510,7 @@ python stacked_violin_plot.py \
 
 If these scripts are used, please cite the associated manuscript:
 
-**Single-cell lineage tracing identifies hemogenic endothelial cells in the adult mouse bone marrow**
+**Single-cell lineage tracing identifies hemogenic endothelial cells in the adult mouse bone marrow eLife 15:RP109553, https://doi.org/10.7554/eLife.109553.3**
 
 ## License
 
