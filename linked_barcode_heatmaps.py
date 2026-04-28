@@ -190,7 +190,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("-i", "--input", required=True)
     parser.add_argument("-o", "--output-dir", default="linked_barcode_heatmaps")
-    parser.add_argument("--hspc-pgen-cutoff", type=float, default=1e-3)
+    parser.add_argument("--hspc-pgen-cutoff", type=float, default=1e-6)
     parser.add_argument("--linked-pgen-cutoff", type=float, default=1e-6)
 
     args = parser.parse_args()
