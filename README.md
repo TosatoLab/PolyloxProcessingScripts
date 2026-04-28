@@ -362,7 +362,7 @@ linked_barcode_heatmaps/
 Default thresholds:
 
 ```text
-HSPC-linked heatmap: pGen < 1e-3
+HSPC-linked heatmap: pGen < 1e-6
 Endothelial-linked heatmap: pGen < 1e-6
 Mesenchymal-linked heatmap: pGen < 1e-6
 ```
