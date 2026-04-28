@@ -431,7 +431,7 @@ These cluster labels are dataset-specific and should be updated if the clusterin
 | `true_barcode_umap.py` | `pGen < 1e-6` |
 | `true_barcode_pgen_heatmap.py` | `pGen < 1e-6` |
 | `true_barcode_upset_plot.py` | `pGen < 1e-6` |
-| `linked_barcode_heatmaps.py`, HSPC-linked plot | `pGen < 1e-3` |
+| `linked_barcode_heatmaps.py`, HSPC-linked plot | `pGen < 1e-6` |
 | `linked_barcode_heatmaps.py`, endothelial/mesenchymal-linked plots | `pGen < 1e-6` |
 
 ## Reproducibility notes
